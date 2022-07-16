@@ -103,10 +103,26 @@
     height: 250px;
 }
 
+.imagebox-container {
+    max-width: 250px;
+}
+
 .imagebox-subtext {
     font-size: 18px;
     color: #1F2937;
     font-weight: lighter;
+}
+
+.quote-container {
+
+}
+
+.quote {
+
+}
+
+.quotename {
+
 }
 
 .signup-button {
