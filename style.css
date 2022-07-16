@@ -4,6 +4,16 @@
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 .maincontainer {
     height: 650px;
     padding-left: 250px;
@@ -35,7 +45,6 @@
 }
 
 .header-link {
-    color: #E5E7EB;
     font-size: 18px;
 }
 
@@ -147,7 +156,7 @@
     display: flex;
     justify-content: space-between;
     padding-top: 75px;
-    color: whitesmoke;
+    color: #E5E7EB;
 }
 
 .signup-text {
@@ -165,7 +174,7 @@
 
 .signup-banner .signup-button {
     border-style: solid;
-    border-color: whitesmoke;
+    border-color: #E5E7EB;
     height: fit-content;
     margin-right: 15%;
 }
@@ -173,4 +182,8 @@
 .footer {
     background-color: #1F2937;
     height: 150px;
+    color: #E5E7EB;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 63px;
 }
